@@ -122,6 +122,7 @@ Node infrastructure and enhanced RPC APIs for agent development.
 - [Alchemy](https://www.alchemy.com/) - Enhanced APIs for 30+ chains with 30M compute units/month on the free tier and AI code tools.
 - [QuickNode](https://www.quicknode.com/) - ~86ms latency across 23+ chains with NFT APIs and 100K requests/day on the free tier.
 - [Infura](https://www.infura.io/) - EVM network RPC with Decentralized Infrastructure Network (DIN) and deep MetaMask ecosystem integration.
+- [Chain.Love](https://chain.love/) - Open-source directory of RPC node providers, indexers, block explorers, bridges, faucets, and developer infrastructure across 50+ networks ([GitHub](https://github.com/Chain-Love/chain-love)).
 
 ---
 
@@ -129,6 +130,7 @@ Node infrastructure and enhanced RPC APIs for agent development.
 
 Model Context Protocol (MCP) servers that expose Web3 data and actions to AI assistants.
 
+- [Chain.Love MCP](https://github.com/Chain-Love/chain.love-mcp) - Model Context Protocol (MCP) server enabling AI agents to query RPC endpoints, indexers, explorers, bridges, faucets, and SDKs from the [Chain.Love](https://chain.love/) multichain infrastructure directory.
 - [CoinGecko CLI](https://github.com/coingecko/coingecko-cli) - Agent/LLM-friendly CLI for 10,000+ cryptocurrencies; JSON/NDJSON output, WebSocket streaming, historical OHLC, category filtering, and top gainers/losers for agent pipelines.
 - [CoinMarketCap MCP](https://coinmarketcap.com/api/mcp/) - 12 tools covering real-time prices, technical analysis (MACD, RSI, Fibonacci), on-chain metrics, trending narratives, and crypto news for 10,000+ cryptocurrencies.
 - [Dune MCP](https://docs.dune.com/api-reference/agents/mcp) - SQL-powered blockchain analytics via MCP; agents can discover tables, write and execute queries, and generate visualizations across multiple chains in a single conversation.
